@@ -1,0 +1,381 @@
+{
+    "name": "Youth Award 2012",
+    "desc": "The WSYA selects and promotes best practice in e-Content. It demonstrates young people's potential to create outstanding digital contents and serves as a platform for people from all UN member states to work together in the efforts to reach the Millennium Development Goals (MDGs)",
+    "picurl": "http://xxx.xxx.com/abc.gif",
+    "contests": [
+        {
+            "category": "Poverty",
+            "enName": "Fight Poverty, Hunger and Disease!",
+            "tcName": "貧窮，飢餓，疾病",
+            "desc": "usic is Medicine uses music",
+            "picurl": "http://xxx.xxx.com/abc.gif",
+            "index" : 1,
+            "winners": [
+                {
+                    "enName": "Farmerline",
+                    "tcName": "農夫",
+                    "rank": 1
+                },
+                {
+                    "name": "LinglingMak",
+                    "tcName": "麥玲玲",
+                    "rank": 2
+                },
+                {
+                    "name": "glasshopper",
+                    "tcName": "草蜢",
+                    "rank": 3
+                }
+            ]
+        },
+        {
+            "category": "Poverty",
+            "enName": "Fight Poverty, Hunger and Disease!",
+            "tcName": "貧窮，飢餓，疾病",
+            "desc": "usic is Medicine uses music",
+            "picurl": "http://xxx.xxx.com/abc.gif",
+            "index" : 1,
+            "winners": [
+                {
+                    "enName": "Farmerline",
+                    "tcName": "農夫",
+                    "rank": 1
+                },
+                {
+                    "name": "LinglingMak",
+                    "tcName": "麥玲玲",
+                    "rank": 2
+                },
+                {
+                    "name": "glasshopper",
+                    "tcName": "草蜢",
+                    "rank": 3
+                }
+            ]
+        },
+        {
+            "category": "Poverty",
+            "enName": "Fight Poverty, Hunger and Disease!",
+            "tcName": "貧窮，飢餓，疾病",
+            "desc": "usic is Medicine uses music",
+            "picurl": "http://xxx.xxx.com/abc.gif",
+            "index" : 1,
+            "winners": [
+                {
+                    "enName": "Farmerline",
+                    "tcName": "農夫",
+                    "rank": 1
+                },
+                {
+                    "name": "LinglingMak",
+                    "tcName": "麥玲玲",
+                    "rank": 2
+                },
+                {
+                    "name": "glasshopper",
+                    "tcName": "草蜢",
+                    "rank": 3
+                }
+            ]
+        },
+        {
+            "category": "Poverty",
+            "enName": "Fight Poverty, Hunger and Disease!",
+            "tcName": "貧窮，飢餓，疾病",
+            "desc": "usic is Medicine uses music",
+            "picurl": "http://xxx.xxx.com/abc.gif",
+            "index" : 1,
+            "winners": [
+                {
+                    "enName": "Farmerline",
+                    "tcName": "農夫",
+                    "rank": 1
+                },
+                {
+                    "name": "LinglingMak",
+                    "tcName": "麥玲玲",
+                    "rank": 2
+                },
+                {
+                    "name": "glasshopper",
+                    "tcName": "草蜢",
+                    "rank": 3
+                }
+            ]
+        },
+        {
+            "category": "Poverty",
+            "enName": "Fight Poverty, Hunger and Disease!",
+            "tcName": "貧窮，飢餓，疾病",
+            "desc": "usic is Medicine uses music",
+            "picurl": "http://xxx.xxx.com/abc.gif",
+            "index" : 1,
+            "winners": [
+                {
+                    "enName": "Farmerline",
+                    "tcName": "農夫",
+                    "rank": 1
+                },
+                {
+                    "name": "LinglingMak",
+                    "tcName": "麥玲玲",
+                    "rank": 2
+                },
+                {
+                    "name": "glasshopper",
+                    "tcName": "草蜢",
+                    "rank": 3
+                }
+            ]
+        },
+        {
+            "category": "Poverty",
+            "enName": "Fight Poverty, Hunger and Disease!",
+            "tcName": "貧窮，飢餓，疾病",
+            "desc": "usic is Medicine uses music",
+            "picurl": "http://xxx.xxx.com/abc.gif",
+            "index" : 1,
+            "winners": [
+                {
+                    "enName": "Farmerline",
+                    "tcName": "農夫",
+                    "rank": 1
+                },
+                {
+                    "name": "LinglingMak",
+                    "tcName": "麥玲玲",
+                    "rank": 2
+                },
+                {
+                    "name": "glasshopper",
+                    "tcName": "草蜢",
+                    "rank": 3
+                }
+            ]
+        },
+        {
+            "category": "Poverty",
+            "enName": "Fight Poverty, Hunger and Disease!",
+            "tcName": "貧窮，飢餓，疾病",
+            "desc": "usic is Medicine uses music",
+            "picurl": "http://xxx.xxx.com/abc.gif",
+            "index" : 1,
+            "winners": [
+                {
+                    "enName": "Farmerline",
+                    "tcName": "農夫",
+                    "rank": 1
+                },
+                {
+                    "name": "LinglingMak",
+                    "tcName": "麥玲玲",
+                    "rank": 2
+                },
+                {
+                    "name": "glasshopper",
+                    "tcName": "草蜢",
+                    "rank": 3
+                }
+            ]
+        },
+        {
+            "category": "Poverty",
+            "enName": "Fight Poverty, Hunger and Disease!",
+            "tcName": "貧窮，飢餓，疾病",
+            "desc": "usic is Medicine uses music",
+            "picurl": "http://xxx.xxx.com/abc.gif",
+            "index" : 1,
+            "winners": [
+                {
+                    "enName": "Farmerline",
+                    "tcName": "農夫",
+                    "rank": 1
+                },
+                {
+                    "name": "LinglingMak",
+                    "tcName": "麥玲玲",
+                    "rank": 2
+                },
+                {
+                    "name": "glasshopper",
+                    "tcName": "草蜢",
+                    "rank": 3
+                }
+            ]
+        },
+        {
+            "category": "Poverty",
+            "enName": "Fight Poverty, Hunger and Disease!",
+            "tcName": "貧窮，飢餓，疾病",
+            "desc": "usic is Medicine uses music",
+            "picurl": "http://xxx.xxx.com/abc.gif",
+            "index" : 1,
+            "winners": [
+                {
+                    "enName": "Farmerline",
+                    "tcName": "農夫",
+                    "rank": 1
+                },
+                {
+                    "name": "LinglingMak",
+                    "tcName": "麥玲玲",
+                    "rank": 2
+                },
+                {
+                    "name": "glasshopper",
+                    "tcName": "草蜢",
+                    "rank": 3
+                }
+            ]
+        },
+        {
+            "category": "Poverty",
+            "enName": "Fight Poverty, Hunger and Disease!",
+            "tcName": "貧窮，飢餓，疾病",
+            "desc": "usic is Medicine uses music",
+            "picurl": "http://xxx.xxx.com/abc.gif",
+            "index" : 1,
+            "winners": [
+                {
+                    "enName": "Farmerline",
+                    "tcName": "農夫",
+                    "rank": 1
+                },
+                {
+                    "name": "LinglingMak",
+                    "tcName": "麥玲玲",
+                    "rank": 2
+                },
+                {
+                    "name": "glasshopper",
+                    "tcName": "草蜢",
+                    "rank": 3
+                }
+            ]
+        },
+        {
+            "category": "Poverty",
+            "enName": "Fight Poverty, Hunger and Disease!",
+            "tcName": "貧窮，飢餓，疾病",
+            "desc": "usic is Medicine uses music",
+            "picurl": "http://xxx.xxx.com/abc.gif",
+            "index" : 1,
+            "winners": [
+                {
+                    "enName": "Farmerline",
+                    "tcName": "農夫",
+                    "rank": 1
+                },
+                {
+                    "name": "LinglingMak",
+                    "tcName": "麥玲玲",
+                    "rank": 2
+                },
+                {
+                    "name": "glasshopper",
+                    "tcName": "草蜢",
+                    "rank": 3
+                }
+            ]
+        },       
+                                                                                         {
+            "category": "Poverty",
+            "enName": "Fight Poverty, Hunger and Disease!",
+            "tcName": "貧窮，飢餓，疾病",
+            "desc": "usic is Medicine uses music",
+            "picurl": "http://xxx.xxx.com/abc.gif",
+            "index" : 1,
+            "winners": [
+                {
+                    "enName": "Farmerline",
+                    "tcName": "農夫",
+                    "rank": 1
+                },
+                {
+                    "name": "LinglingMak",
+                    "tcName": "麥玲玲",
+                    "rank": 2
+                },
+                {
+                    "name": "glasshopper",
+                    "tcName": "草蜢",
+                    "rank": 3
+                }
+            ]
+        },
+        {
+            "category": "Poverty",
+            "enName": "Fight Poverty, Hunger and Disease!",
+            "tcName": "貧窮，飢餓，疾病",
+            "desc": "usic is Medicine uses music",
+            "picurl": "http://xxx.xxx.com/abc.gif",
+            "index" : 1,
+            "winners": [
+                {
+                    "enName": "Farmerline",
+                    "tcName": "農夫",
+                    "rank": 1
+                },
+                {
+                    "name": "LinglingMak",
+                    "tcName": "麥玲玲",
+                    "rank": 2
+                },
+                {
+                    "name": "glasshopper",
+                    "tcName": "草蜢",
+                    "rank": 3
+                }
+            ]
+        },
+                        {
+            "category": "Poverty",
+            "enName": "Fight Poverty, Hunger and Disease!",
+            "tcName": "貧窮，飢餓，疾病",
+            "desc": "usic is Medicine uses music",
+            "picurl": "http://xxx.xxx.com/abc.gif",
+            "index" : 1,
+            "winners": [
+                {
+                    "enName": "Farmerline",
+                    "tcName": "農夫",
+                    "rank": 1
+                },
+                {
+                    "name": "LinglingMak",
+                    "tcName": "麥玲玲",
+                    "rank": 2
+                },
+                {
+                    "name": "glasshopper",
+                    "tcName": "草蜢",
+                    "rank": 3
+                }
+            ]
+        },
+        {
+            "category": "Education",
+            "enName": "Education for All!",
+            "tcName": "全人教育",
+            "picurl": "http://xxx.xxx.com",
+            "index" : 2,
+            "winners": [
+                {
+                    "enName": "Farmerline1",
+                    "tcName": "農夫1",
+                    "rank": 1
+                },
+                {
+                    "name": "LinglingMak1",
+                    "tcName": "麥玲玲1",
+                    "rank": 2
+                },
+                {
+                    "name": "glasshopper1",
+                    "tcName": "草蜢1",
+                    "rank": 3
+                }
+            ]
+        }
+    ]
+}

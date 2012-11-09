@@ -1,0 +1,46 @@
+<!-- Copyright (c) 2012 Mobile Developer Solutions -->
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta http-equiv="Content-type" name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width">
+    <meta charset="utf-8">
+    <title>Prize Presentation</title>
+
+ 	<link rel="stylesheet" href="jquery.mobile/jquery.mobile-1.1.0.min.css" />
+	<link rel="stylesheet" href="main.css" /> 
+
+    <script src="jquery.mobile/jquery-1.7.2.min"></script>
+	<script src="jquery.mobile/jquery.mobile-1.1.0.min.js"></script>
+	<script type="text/javascript" charset="utf-8" src="cordova-2.2.0.js"></script>
+	<script type="text/javascript" charset="utf-8" src="app.js"></script>
+	<script type="text/javascript" charset="utf-8" src="main.js"></script>
+	<script type="text/javascript" charset="utf-8" src="modules/prizeDataParser.js"></script>
+  </head>
+  
+  <body onload="init();">
+	<div data-role="page" id="page-home" data-theme="b">  
+		<div data-role="content">	
+			<a href="#page-category" data-transition="slide"  data-role="button">Select Category</a>
+			<a id="quit_button" href="#" data-role="button">Quit</a>	
+		</div><!-- /content -->
+	
+		<div data-role="footer" data-position="fixed">
+			<h4>2012 Travelzen</h4>
+		</div><!-- /footer -->	
+	</div>
+	<div data-role="page" id="page-category" class="type-interior" data-theme="b">  
+		<div data-role="header" data-position="fixed">
+			<h2>Choose Category</h2>
+		</div><!-- /header -->
+	
+		<div data-role="content">	
+			<ul id="prizeCategory" data-role="listview" data-filter="true">
+			</ul>
+		</div><!-- /content -->
+	
+		<div data-role="footer" data-position="fixed">
+			<h4>2012 Travelzen</h4>
+		</div><!-- /footer -->	
+	</div>	
+  </body>
+</html>	
