@@ -4,8 +4,6 @@ function init() {
 
 var onDeviceReady = function() {
     console.log("deviceready event fired");
-    
-
 };
 
 $(document).ready(function() {
@@ -14,11 +12,12 @@ $(document).ready(function() {
     });
     
     var onPrizeDataLoaded = function(data) {
-    	jQuery.each(data.contests, function() {
-    		$('#prizeCategory').append('<li><a>' + this.tcName + '</a></li>');
+    	jQuery.each(data.contests, function(index) {
+    		$('#prizeCategory').append('<li><a href="#page-winner?index=' + index + '">' + this.tcName + '</a></li>');
     	});
     };
     
     var parser = new PrizeDataParser();
     parser.parseData($.proxy(onPrizeDataLoaded, this));
+
 });
