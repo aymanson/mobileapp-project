@@ -108,4 +108,5 @@
 
 $(document).bind("mobileinit", function(){
 	  $.mobile.buttonMarkup.hoverDelay = 60;
+	  $.mobile.useFastClick = true;
 });
